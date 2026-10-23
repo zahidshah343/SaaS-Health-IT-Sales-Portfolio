@@ -1,9 +1,6 @@
-# ZeeMed Healthcare Solutions
+# Healthcare Sales and Revenue Operations Portfolio
 
-**Healthcare Sales and Revenue Operations Portfolio**
-
-Prepared by Syed Zahid Ali
-Founder, ZeeMed Healthcare Solutions
+**Prepared by Syed Zahid Ali**
 Lahore, Pakistan
 
 ---
@@ -77,12 +74,11 @@ Client names, personal identifiers, and proprietary pricing information have bee
 
 ## Contact
 
-Syed Zahid Ali
-Founder, ZeeMed Healthcare Solutions
+**Syed Zahid Ali**
 
 LinkedIn: linkedin.com/in/zahidshahh
 Email: zeemed.contact@gmail.com
 
 ---
 
-© 2026 ZeeMed Healthcare Solutions. All Rights Reserved.
+© 2026 Syed Zahid Ali. All Rights Reserved.
